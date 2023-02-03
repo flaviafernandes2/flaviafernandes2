@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Flávia Fernandes
 
 <!--
 **flaviafernandes2/flaviafernandes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, me chamo SeuNomeAqui ! 
-## Bem vindo ao meu perfil GitHub 👋
+
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviafernandes2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
