@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### :hammer_and_wrench: Languages and Tools :
 <div>
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "CSS3"/></code>
+</div>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviafernandes2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
