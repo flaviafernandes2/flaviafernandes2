@@ -1,4 +1,12 @@
 <div align="center">
+<div>
+<a href="https://github.com/flaviafernandes2">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviafernandes2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+  ###
+
+<div align="center">
 <table>
   <tr>
     <td align="center" width="115">
@@ -21,4 +29,4 @@
 </table>
 
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviafernandes2&show_icons=true&theme=tokyonight)
+
